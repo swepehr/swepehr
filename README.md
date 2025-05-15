@@ -1,15 +1,17 @@
-Hi 👋 My name is Sepehr
-=======================
+# 👋 Hi, I'm Sepehr!
 
-Back-End developer
-------------------
+🎓 I'm a Master's student in Software Engineering at Concordia University.  
+💻 I specialize in **Python, SQL, and Power BI** for data analysis and backend development.  
+🌍 Based in Montreal, Canada – Open to job opportunities and internships.  
+📊 Currently building data projects with Python and visualization tools.
 
-A Master of Software Engineering student at Concordia University. I specialize in Java and SQL Server for building robust software solutions. Currently exploring new technologies and open to collaborative projects.
+---
 
-* 🌍  I'm based in Montreal, Canada
-* ✉️  You can contact me at [zakisepehr@gmail.com](mailto:zakisepehr@gmail.com)
-* 🧠  I'm learning Machine Learning
-* ⚡  I'm secretly superhero , but don't tell anyone
+## 🚀 Skills
+
+- Languages: **Python**, **SQL**, Java, HTML5, CSS3
+- Tools: **Power BI**, Git, GitHub, Jupyter, Oracle SQL, VS Code
+- Concepts: Data Analysis, Database Design, OOP, Machine Learning (learning
 
 ### Skills
 
