@@ -9,8 +9,8 @@
 
 ## 🚀 Skills
 
-- Languages: **Python**, **SQL**, Java, HTML5, CSS3
-- Tools: **Power BI**, Git, GitHub, Jupyter, Oracle SQL, VS Code
+- Languages: **Python**, **SQL**, **Java**, **HTML5**, **CSS3**
+- Tools: **Power BI**, **Git**, **Jupyter**, **Oracle SQL**, **VS Code**
 - Concepts: Data Analysis, Database Design, OOP, Machine Learning (learning
 
 ### Skills
