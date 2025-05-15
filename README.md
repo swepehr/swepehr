@@ -11,7 +11,7 @@
 
 - Languages: **Python**, **SQL**, **Java**, **HTML5**, **CSS3**
 - Tools: **Power BI**, **Git**, **Jupyter**, **Oracle SQL**, **VS Code**
-- Concepts: Data Analysis, Database Design, OOP, Machine Learning (learning
+- Concepts: Data Analysis, Database Design, OOP, Machine Learning (learning)
 ### Skills
 
 <p align="left">
@@ -36,9 +36,10 @@
   </a>
   
   <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="36" height="36" alt="Power BI" />
-  </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="36" height="36" alt="Power BI" />
+</a>
+
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
